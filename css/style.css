@@ -1,0 +1,19 @@
+#img1{
+    width: 540px;
+    height: 320px;
+    position: absolute; left: 30px; top: 60px;
+}
+#img2{
+    width: 540px;
+    height: 320px;
+    position: absolute; left: 600px; top: 60px;
+}
+p{
+    font-size: 5rem;
+    color: blueviolet;
+    margin-top: 70px;
+    margin-left: 50px;
+}
+.imgs{
+    position: relative; left: 30px; top: 60px;
+}
